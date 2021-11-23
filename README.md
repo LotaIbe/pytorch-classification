@@ -1,6 +1,6 @@
 
 # ImageNet training in PyTorch
--- forked from dutsy nv, modified learning rate scheduler and transforms
+**Forked from dutsy nv, modified learning rate scheduler and transforms**
 
 This implements training of popular model architectures, such as ResNet, AlexNet, and VGG on the ImageNet dataset.
 
